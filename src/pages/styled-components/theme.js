@@ -1,29 +1,26 @@
 export const theme = {
   // FONT-WEIGHTS
   regular: 400, // default
-  semiBold: 500,
+  semiBold: 600,
+  bold: 700,
 
   // FONT-SIZES
   mini: '13px',
-  base: '14px', // default font size
-  medium: '15px',
-  large: '18px',
-
+  base: '15px', // default font size
+  medium: '16px',
+  large: '20px',
+  xLarge: '22px',
 
 
   // LINE-HEIGHTS
-  lineHeight1_2: 1.2, // default
+  lineHeight1_09: 1.09,
+  lineHeight1_2: 1.2,
+  lineHeight1_5: 1.5, // default
 
   // COLORS
-  baseColor: '#4D4D4D', // default
+  baseColor: '#282828', // default
   white: '#FFFFFF',
-
-  // BACKGROUND COLORS
-  brandPrimary: '#7D81E6',
-  brandSecondary: '#FF85B1',
-  accent1: '#F1F1F1',
-  accent2: '#DADADA',
-
+  black: '#000000',
 
   // Z-INDEX
   zIndex1: 1,
